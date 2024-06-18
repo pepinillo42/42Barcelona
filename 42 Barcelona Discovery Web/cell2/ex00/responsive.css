@@ -1,0 +1,31 @@
+body , html{
+    height: 100%;
+}
+
+table {
+    height: 100%;
+    width: 100%;
+    border-collapse: collapse;
+    overflow-x: auto;
+
+}
+
+td {
+    border: 1px solid green;
+    padding: 40px;
+   
+}
+
+.celda1 {
+    background-color: aquamarine;
+   
+}
+.celda2 {
+    background-color: cadetblue;
+    ;
+
+}
+.celda1 , .celda2 {
+    text-align: center;
+    
+}

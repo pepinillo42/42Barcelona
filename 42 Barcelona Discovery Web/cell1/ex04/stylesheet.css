@@ -1,0 +1,13 @@
+.image-container {
+    text-align: center;
+}
+.image-container img {
+    display: inline-block;
+    margin: 0 10px;
+}
+.image-container div {
+    display: inline-block;
+    text-align: center;
+    margin-top: 10px;
+}
+
