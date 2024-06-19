@@ -6,7 +6,7 @@
 /*   By: cybarley <cybarley@student.42barcelona.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/06/18 20:00:56 by cybarley          #+#    #+#             */
-/*   Updated: 2024/06/19 23:12:53 by cybarley         ###   ########.fr       */
+/*   Updated: 2024/06/19 23:17:03 by cybarley         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,8 +30,8 @@ int ft_iterative_factorial(int nb)
         return factorial;
 }
 
-int main(void)
+/*int main(void)
 {
     int result = ft_iterative_factorial(4);
     return result;
-}
+}*/
